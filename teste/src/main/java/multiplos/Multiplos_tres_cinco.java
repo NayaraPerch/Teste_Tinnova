@@ -1,4 +1,4 @@
-package Multiplos;
+package multiplos;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
